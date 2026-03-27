@@ -1,4 +1,4 @@
-# Gestion-de-Recette
+# PlanEat
 
 Bienvenue sur Gestion-de-Recette, une application web conçue pour les amateurs de cuisine qui cherchent à explorer, créer et partager leurs recettes préférées. Ce projet est divisé en deux parties principales : le backend et le frontend.
 
